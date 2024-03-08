@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/UnicornPlatinum23/counter-app.git/static/css/main.daf3e04d.css",
+    "main.js": "/UnicornPlatinum23/counter-app.git/static/js/main.325d04b8.js",
+    "static/js/453.bd306e10.chunk.js": "/UnicornPlatinum23/counter-app.git/static/js/453.bd306e10.chunk.js",
+    "static/media/wallclock.jpg": "/UnicornPlatinum23/counter-app.git/static/media/wallclock.f97b0ae0be441370bba3.jpg",
+    "index.html": "/UnicornPlatinum23/counter-app.git/index.html",
+    "main.daf3e04d.css.map": "/UnicornPlatinum23/counter-app.git/static/css/main.daf3e04d.css.map",
+    "main.325d04b8.js.map": "/UnicornPlatinum23/counter-app.git/static/js/main.325d04b8.js.map",
+    "453.bd306e10.chunk.js.map": "/UnicornPlatinum23/counter-app.git/static/js/453.bd306e10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf3e04d.css",
+    "static/js/main.325d04b8.js"
+  ]
+}
